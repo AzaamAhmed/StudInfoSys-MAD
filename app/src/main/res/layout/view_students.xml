@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/std_row_list"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="@color/field"
+    android:backgroundTintMode="src_atop">
+
+    <TextView
+        android:id="@+id/txtID"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:gravity="left|center_vertical"
+        android:text="@string/textview"
+        android:textSize="16sp"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:gravity="left|center_vertical"
+        android:text="@string/textview1"
+        android:textSize="16sp"
+        tools:ignore="RtlHardcoded" />
+
+    <TextView
+        android:id="@+id/txtNum"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:gravity="left|center_vertical"
+        android:text="@string/textview2"
+        android:textSize="16sp"
+        tools:ignore="RtlHardcoded" />
+
+    <ImageView
+        android:id="@+id/ivDelete"
+        android:layout_width="20dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/delete_24"
+        tools:ignore="ContentDescription" />
+
+</LinearLayout>

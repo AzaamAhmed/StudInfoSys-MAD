@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dblue">#1870F4</color>
+    <color name="gblue">#113946</color>
+    <color name="lgrey">#D8D9DA</color>
+    <color name="dgrey">#61677A</color>
+    <color name="btn">#2674EC</color>
+    <color name="lightb">#CDE5FA</color>
+    <color name="Pink">#BD7A91</color>
+
+    <color name="head">#8E9AAF</color>
+    <color name="subHead">#CBC0D3</color>
+    <color name="colum">#EFD3D7</color>
+    <color name="backdrop">#DEE2FF</color>
+    <color name="field">#FEEAFA</color>
+
+
+</resources>

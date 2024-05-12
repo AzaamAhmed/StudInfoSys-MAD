@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StudentManagementSystem</string>
+    <string name="heading">Students Details</string>
+
+    <string name="listbtn">Students List</string>
+    <string name="addBtn">Add Student</string>
+    <string name="nameHead">Full Name</string>
+    <string name="idhead">Student ID</string>
+    <string name="numHead">C. Number</string>
+    <string name="appHeading">"Student\nDetails Form"</string>
+
+    <!--    home page -->
+    <string name="homeAdd">Enroll Student</string>
+    <string name="homeList">Details of all Students</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_student">Register Student</string>
+    <string name="student_name">Student Name</string>
+    <string name="walter_white">Walter White</string>
+    <string name="student_id">Student ID</string>
+    <string name="it_xxxxxxxx">IT XXXXXXXX</string>
+    <string name="number">Number</string>
+    <string name="_07x_xxx_xxxx">07X XXX XXXX</string>
+    <string name="register">Register</string>
+    <string name="textview">TextView</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+</resources>
